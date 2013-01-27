@@ -1,0 +1,80 @@
+h1
+	{font-size:11.0pt;
+	font-family:"Arial","serif";
+	font-weight:bold;
+	text-align:center;}
+h2
+	{font-size: 11.0pt;
+	font-family: "Arial", "sans-serif";}
+h3
+	{font-size: 11.0pt;
+	font-weight:normal;
+	font-family: "Arial", "sans-serif";}
+h4
+	{text-align:justify;
+	text-indent:-43.2pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";}
+h5
+	{text-align:justify;
+	text-indent:-50.4pt;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";
+	font-style:italic;}
+h6
+	{text-align:justify;
+	text-indent:-57.6pt;
+	font-size:11.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:normal;
+	font-style:italic;}
+p.MsoHeading7, li.MsoHeading7, div.MsoHeading7
+	{text-align:justify;
+	text-indent:-64.8pt;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoHeading8, li.MsoHeading8, div.MsoHeading8
+	{text-align:justify;
+	text-indent:-72.0pt;
+	font-size:10.0pt;
+	font-family:"Arial","sans-serif";
+	font-style:italic;}
+p.MsoHeading9, li.MsoHeading9, div.MsoHeading9
+	{text-align:justify;
+	text-indent:-79.2pt;
+	font-size:9.0pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;
+	font-style:italic;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{font-size:10.0pt;
+	font-family:"Times New Roman","serif";
+	font-weight:bold;
+	text-align:center;}
+p.EstiloTtulo1h111ptSinMaysculas, li.EstiloTtulo1h111ptSinMaysculas, div.EstiloTtulo1h111ptSinMaysculas
+	{text-align:justify;
+	text-indent:-21.6pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	text-transform:uppercase;
+	font-weight:bold;}
+p.Cuadros, li.Cuadros, div.Cuadros
+	{text-align:center;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";
+	font-weight:bold;}
+p.bull, li.bull, div.bull
+	{text-align:justify;
+	text-indent:-18.0pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+	
+span
+	{font-size: 11.0pt;
+	font-family: "Arial", "sans-serif";}
+	
+ul
+{}
+
+li
+{list-style:none;}
